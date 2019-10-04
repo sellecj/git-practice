@@ -13,3 +13,6 @@ Three step process
     Add any changed files to the stage - git add filename
     Commit the stage files - git commit -m "Description for myself and others"
 
+From home
+    git clone url to repository
+    git pull 
