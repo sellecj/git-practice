@@ -15,4 +15,6 @@ Three step process
 
 From home
     git clone url to repository
+    git push -u origin master
+    git push
     git pull 
